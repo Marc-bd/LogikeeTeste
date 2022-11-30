@@ -1,0 +1,5 @@
+export const actionTypes = {
+	SET_CARS: "SET_CARS",
+	SELECT_CARS: "SELECT_CARS",
+	REMOVE_SELECT_CARS: "REMOVE_SELECT_CARS",
+};

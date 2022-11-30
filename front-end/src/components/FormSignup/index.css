@@ -1,0 +1,20 @@
+.MuiGrid-item > form {
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+
+	border-radius: 8px;
+	margin: 32px;
+	height: 350px;
+	height: 350px;
+}
+
+.MuiGrid-item > form > button {
+	margin-top: 36px;
+	width: 50%;
+	align-self: center;
+}
+
+.inputFied {
+	margin: 10px;
+}
